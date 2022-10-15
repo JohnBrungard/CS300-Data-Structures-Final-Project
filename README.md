@@ -1,7 +1,7 @@
 # CS300-Final-Project
 
 ***What was the problem you were solving in the projects for this course?***
-The client for our project, ABC University (ABCU) required a software that would help advisors access course information for students. For this problem, students were tasked with creating a course catalog that allowed the user to display all the courses in alphabetical order, load courses from a CSV file, and find a course and display its unique information within a data structure.
+The client for our project, ABC University (ABCU) required a software that would help advisors access course information for students. For this problem, students were tasked with creating a course catalog that allowed the user to display all the courses in alphabetical order, load courses from a CSV file, and find a course to display its unique information within a data structure.
 
 ***How did you approach the problem? Consider why data structures are important to understand.***
 I approached the problem by creating pseudocode to determine the best data structure for this project. The pseudocode captured all the requirements of the software and allowed me to perform runtime analysis on each of the three structures I had chosen from. I had started with a vector, then a hash table, and finally, a binary search tree. It was important to understand these data structures as each has specific areas of strengths and weaknesses and can vary in big o notation when it comes to different functions within the software.
